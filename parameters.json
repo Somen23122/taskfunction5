@@ -6,7 +6,7 @@
             "value": "funsomeapp"
         },
         "serverfarms_ASP_FunctionAPPdemo_b1bf_externalid": {
-            "value": null
+            "value": "/subscriptions/357b74e2-9aef-41a4-b229-a68d497e1029/resourceGroups/FunctionAPPdemo/providers/Microsoft.Web/serverfarms/ASP-FunctionAPPdemo-b1bf"
         }
     }
 }
