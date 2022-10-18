@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_funsomeapp_name": {
-            "value": null
+            "value": "funsomeapp"
         },
         "serverfarms_ASP_FunctionAPPdemo_b1bf_externalid": {
-            "value": null
+            "value": ""
         }
     }
 }
